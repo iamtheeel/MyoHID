@@ -14,7 +14,7 @@ The default method of interfacing with computational equipment is the keyboard a
 We have captured electromyography data with low cost off the shelf hardware, processed the signals with the help of a machine learning algorithm, and then used that processed information to control a human interface device to operate a mouse for any common computer system.
 
 
-The software is broken into three major categories. 
+The software is broken into three major categories. In either MATLAB, or C++ under Arduino
 *	Data Acquisition (DAQ)
     -	arduinoDAQ.ino
     -	serialComms.cpp
