@@ -6,9 +6,7 @@ Myoelectric Control of a Human Interface Device
 
 <p align="center">
   <img src="flowChart.png" alt="Flow Chart" width=30%/>
-</p>
 
-<p align="center">
   <img src="blockDiagram.png" alt="Block Diagram" width=25%/>
 </p>
 
