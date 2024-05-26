@@ -1,6 +1,8 @@
 # MyoHID
 Myoelectric Control of a Human Interface Device
 
-https://github.com/iamtheeel/MyoHID/blob/4f2368bc833e0084731ff271b7bebb7d6e0121ae/IMG_6636_finalRun_480p.mov
 
-![Watch the video](https://github.com/iamtheeel/MyoHID/blob/744d13a04d67df1fa4955e9585844b020ff10742/IMG_6636_finalRun_720p.mov)
+![Video of System in Action](https://github.com/iamtheeel/MyoHID/blob/744d13a04d67df1fa4955e9585844b020ff10742/IMG_6636_finalRun_720p.mov)
+
+The default method of interfacing with computational equipment is the keyboard and mouse. These inputs can be challenging for people with even mild disabilities. If not used correctly, improper use can lead to nerve damage causing disability. 
+We have captured electromyography data with low cost off the shelf hardware, processed the signals with the help of a machine learning algorithm, and then used that processed information to control a human interface device to operate a mouse for any common computer system.
