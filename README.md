@@ -14,22 +14,22 @@ The software is broken into three major categories.
     -	serialComms.cpp
     - serialComms.h
 *	Signal Processing (MATLAB)
-  -	The entry point
-    - frontEnd.mlx
-  -	Record data for analysis and training
-    - recordDataBlocks.m
-    - blockExtract.m
-  -	Run Realtime capture of data from the DAQ, process data, and send to the HID
-    - realTime.m
-  -	Serial packets receive and parse, Circular buffer for Realtime
-    - dataHandeler.m
-  -	Feature Extraction
-    - dataProc.m
-    - calcFFT.m
-  -	Data Analisis tools
-    - plotFeatures
+    -	The entry point
+        - frontEnd.mlx
+    -	Record data for analysis and training
+        - recordDataBlocks.m
+        - blockExtract.m
+    -	Run Realtime capture of data from the DAQ, process data, and send to the HID
+        - realTime.m
+    -	Serial packets receive and parse, Circular buffer for Realtime
+        - dataHandeler.m
+    -	Feature Extraction
+        - dataProc.m
+        - calcFFT.m
+    -	Data Analisis tools
+        - plotFeatures.m
 *	Human Interface Device (HID)
-  -	HID.ino
-  -	gestureMap.h
-  -	serialComms.cpp
-  -	serialComms.h
+    -	HID.ino
+    -	gestureMap.h
+    -	serialComms.cpp
+    -	serialComms.h
