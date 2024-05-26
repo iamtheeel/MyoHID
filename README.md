@@ -8,28 +8,28 @@ The default method of interfacing with computational equipment is the keyboard a
 We have captured electromyography data with low cost off the shelf hardware, processed the signals with the help of a machine learning algorithm, and then used that processed information to control a human interface device to operate a mouse for any common computer system.
 
 
-The software is broken into three major categories. The software flow is shown in “Fig. 3”:
-•	Data Acquisition (DAQ)
-o	arduinoDAQ.ino
-o	serialComms.cpp
-o	serialComms.h
-•	Signal Processing (MATLAB)
-o	The entry point
+The software is broken into three major categories. 
+*	Data Acquisition (DAQ)
+-	arduinoDAQ.ino
+-	serialComms.cpp
+- serialComms.h
+*	Signal Processing (MATLAB)
+-	The entry point
 	frontEnd.mlx
-o	Record data for analysis and training
+-	Record data for analysis and training
 	recordDataBlocks.m
 	blockExtract.m
-o	Run Realtime capture of data from the DAQ, process data, and send to the HID
+-	Run Realtime capture of data from the DAQ, process data, and send to the HID
 	realTime.m
-o	Serial packets receive and parse, Circular buffer for Realtime
+-	Serial packets receive and parse, Circular buffer for Realtime
 	dataHandeler.m
-o	Feature Extraction
+-	Feature Extraction
 	dataProc.m
 	calcFFT.m
-o	Data Analisis tools
+-	Data Analisis tools
 	plotFeatures
-•	Human Interface Device (HID)
-o	HID.ino
-o	gestureMap.h
-o	serialComms.cpp
-o	serialComms.h
+*	Human Interface Device (HID)
+-	HID.ino
+-	gestureMap.h
+-	serialComms.cpp
+-	serialComms.h
