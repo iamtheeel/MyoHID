@@ -10,9 +10,9 @@ We have captured electromyography data with low cost off the shelf hardware, pro
 
 The software is broken into three major categories. 
 *	Data Acquisition (DAQ)
-  -	arduinoDAQ.ino
-  -	serialComms.cpp
-  - serialComms.h
+    -	arduinoDAQ.ino
+    -	serialComms.cpp
+    - serialComms.h
 *	Signal Processing (MATLAB)
   -	The entry point
     - frontEnd.mlx
