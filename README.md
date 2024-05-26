@@ -9,11 +9,11 @@ We have captured electromyography data with low cost off the shelf hardware, pro
 
 
 The software is broken into three major categories. 
--	Data Acquisition (DAQ)
+*	Data Acquisition (DAQ)
   -	arduinoDAQ.ino
   -	serialComms.cpp
   - serialComms.h
--	Signal Processing (MATLAB)
+*	Signal Processing (MATLAB)
   -	The entry point
     - frontEnd.mlx
   -	Record data for analysis and training
@@ -28,7 +28,7 @@ The software is broken into three major categories.
     - calcFFT.m
   -	Data Analisis tools
     - plotFeatures
--	Human Interface Device (HID)
+*	Human Interface Device (HID)
   -	HID.ino
   -	gestureMap.h
   -	serialComms.cpp
