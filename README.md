@@ -1,2 +1,2 @@
 # MyoHID
-Myoelecric Contoll of a Human Interface Device
+Myoelectric Control of a Human Interface Device
