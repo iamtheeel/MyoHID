@@ -5,11 +5,11 @@ Myoelectric Control of a Human Interface Device
 ![Video of System in Action](https://github.com/iamtheeel/MyoHID/blob/744d13a04d67df1fa4955e9585844b020ff10742/IMG_6636_finalRun_720p.mov)
 
 <p align="center">
-  <img src="flowChart.png" alt="Flow Chart" width=70%/>
+  <img src="flowChart.png" alt="Flow Chart" width=30%/>
 </p>
 
 <p align="center">
-  <img src="blockDiagram.png" alt="Block Diagram" width=70%/>
+  <img src="blockDiagram.png" alt="Block Diagram" width=25%/>
 </p>
 
 The default method of interfacing with computational equipment is the keyboard and mouse. These inputs can be challenging for people with even mild disabilities. If not used correctly, improper use can lead to nerve damage causing disability. 
