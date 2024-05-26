@@ -39,3 +39,15 @@ The software is broken into three major categories. In either MATLAB, or C++ und
     -	gestureMap.h
     -	serialComms.cpp
     -	serialComms.h
+
+
+The hardware List:
+|System		|Component	|Vendor	|Part|
+|---------|-----------------------------|-----------------|-------------------------|
+|Sensor   |Instrunemtaion Amplifier     |Advancer Tech.   |Muscle Sensor Platinum V3|
+|Sensor   |Self Adhesive Electrodes     |Corvidian        |H124SG                   |
+|Amplifier|Dual Channel Low Power Op Amp|Texas Instruments|TI6002                   |
+|Filter   |Ceramic Capacitors (10%)     |1A Manufacturing |EE916A                   |
+|Filter   |Metal Film Resistors (1%)    |Bojack           |BJ-50                    |
+|DAQ      |Microcontroller              |Arduino          |UNO R4                   |
+|HID      |Microcontroller              |Adafruit         |QT Py M0                 |
