@@ -5,8 +5,8 @@ Myoelectric Control of a Human Interface Device
 ![Video of System in Action](https://github.com/iamtheeel/MyoHID/blob/744d13a04d67df1fa4955e9585844b020ff10742/IMG_6636_finalRun_720p.mov)
 
 <p align="center">
-  <img src="blockDiagram.png" alt="Block Diagram" width=45%/>
-  <img src="flowChart.png" alt="Flow Chart" width=25%/>
+  <img src="blockDiagram.png" alt="Block Diagram" width=60%/>
+  <img src="flowChart.png" alt="Flow Chart" width=36%/>
 
 </p>
 
