@@ -8,7 +8,8 @@
 
 
 % User vars
-serialPort = "/dev/tty.usbmodem113401"; % UNIX format
+serialPort = "/dev/tty.us:
+1:bmodem113401"; % UNIX format
 %serialPort = "COM9" % Windows Format
 
 % help BaudRate
